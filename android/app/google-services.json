@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "151912156719",
+    "firebase_url": "https://family-tracker-app-d79c8-default-rtdb.firebaseio.com",
+    "project_id": "family-tracker-app-d79c8",
+    "storage_bucket": "family-tracker-app-d79c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151912156719:android:2bfdde5e6d3fc340e000da",
+        "android_client_info": {
+          "package_name": "com.boss.family_super_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151912156719-3ej1a6keieq201led7ojhjbfe7m7o7et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuMcAugJm0sK9EGSzh7GI1bRDP3MQS7b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151912156719-3ej1a6keieq201led7ojhjbfe7m7o7et.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "151912156719-iftk1ng4f848up4u049t9cdpnhf5c5ov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.familyTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
